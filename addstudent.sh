@@ -11,3 +11,4 @@ else
    echo "[E]:Invalid number of arguments than expected";
    echo "[Usage]: ./addstudent.sh classlist username";
 fi
+done
